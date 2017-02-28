@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnstivers/cs103/PA_Image_Processing/bmplib.cpp
+stdio.h
+-
+iostream
+-
+cstdlib
+-
+bmplib.h
+/Users/johnstivers/cs103/PA_Image_Processing/bmplib.h
+unistd.h
+/Users/johnstivers/cs103/PA_Image_Processing/unistd.h
+
+/Users/johnstivers/cs103/PA_Image_Processing/bmplib.h
+
+/Users/johnstivers/cs103/PA_Image_Processing/main.cpp
+iostream
+-
+
