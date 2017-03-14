@@ -86,7 +86,19 @@
 		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/bmplib.h">
 			<Option target="lab_bmplib"/>
 		</Unit>
+		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/bw_tile_wikimedia.bmp">
+			<Option target="lab_bmplib"/>
+		</Unit>
+		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/daily-trojan.bmp">
+			<Option target="lab_bmplib"/>
+		</Unit>
 		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/filter.cpp">
+			<Option target="lab_bmplib"/>
+		</Unit>
+		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/tommy.bmp">
+			<Option target="lab_bmplib"/>
+		</Unit>
+		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/usc_ucla_wikimedia.bmp">
 			<Option target="lab_bmplib"/>
 		</Unit>
 		<Unit filename="/Users/johnstivers/cs103/PA_Image_Processing/CMakeLists.txt">

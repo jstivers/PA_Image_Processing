@@ -4,5 +4,6 @@
 CMakeFiles/lab_bmplib.dir/bmplib.cpp.o: ../bmplib.cpp
 CMakeFiles/lab_bmplib.dir/bmplib.cpp.o: ../bmplib.h
 
-CMakeFiles/lab_bmplib.dir/main.cpp.o: ../main.cpp
+CMakeFiles/lab_bmplib.dir/filter.cpp.o: ../bmplib.h
+CMakeFiles/lab_bmplib.dir/filter.cpp.o: ../filter.cpp
 

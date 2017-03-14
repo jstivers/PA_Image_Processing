@@ -20,7 +20,17 @@ unistd.h
 
 /Users/johnstivers/cs103/PA_Image_Processing/bmplib.h
 
-/Users/johnstivers/cs103/PA_Image_Processing/main.cpp
+/Users/johnstivers/cs103/PA_Image_Processing/filter.cpp
 iostream
 -
+cmath
+-
+cstring
+-
+iomanip
+-
+cstdlib
+-
+bmplib.h
+/Users/johnstivers/cs103/PA_Image_Processing/bmplib.h
 
